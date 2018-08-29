@@ -1,0 +1,37 @@
+{
+  "name": "redux-router-skeleton",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Simple skeleton project ready to be used in everything you want! :)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanortiz10/redux-router-skeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanortiz10/redux-router-skeleton/issues"
+  },
+  "homepage": "https://github.com/juanortiz10/redux-router-skeleton#readme"
+}
